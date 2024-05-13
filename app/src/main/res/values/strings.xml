@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Submission Machine Learning</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="no_history_found">History Kosong</string>
+    <string name="cancerOrNonCancer">Cancer|NonCancer</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="history">History</string>
+    <string name="delete">Delete</string>
+    <string name="delete_data">Delete Data</string>
+</resources>
